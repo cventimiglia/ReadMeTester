@@ -15,6 +15,11 @@ The goal of TAP is to use creative technologies to help inspire future students 
 Advisors: Dr. Cengiz Gunay and Dr. Rahaf Barakat
 ## Publications
 ## Outreach Activities
+1. TAP Expo (March 17) - Test our builds and to introduce TAP to other students.
+2. Class Workshops (April 6, April 11, and April 27) - Walk students through a guided workshop.
+3. STaRS Poster Presentation (April 14) - Display our poster and explain the data we collected to the judges.
+4. Title One Workshops (April 23) - Walk middle school students through our workshop to give them hands-on experience.
+5. Super Saturday Series (April 30) - Host a day of fun at GGC for middle school students.
 ## Technologies
 1. HTML, CSS, JavaScript
 2. NFC Chips
